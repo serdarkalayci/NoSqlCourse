@@ -1,0 +1,14 @@
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/bin/Debug/netcoreapp2.2/MovieApi.deps.json
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/bin/Debug/netcoreapp2.2/MovieApi.runtimeconfig.json
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/bin/Debug/netcoreapp2.2/MovieApi.runtimeconfig.dev.json
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/bin/Debug/netcoreapp2.2/MovieApi.dll
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/bin/Debug/netcoreapp2.2/MovieApi.pdb
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.csprojAssemblyReference.cache
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.csproj.CoreCompileInputs.cache
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.RazorAssemblyInfo.cache
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.RazorAssemblyInfo.cs
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.AssemblyInfoInputs.cache
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.AssemblyInfo.cs
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.RazorTargetAssemblyInfo.cache
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.dll
+/Users/serdarkalayci/Projects/NoSqlCourse/src/MovieApi/obj/Debug/netcoreapp2.2/MovieApi.pdb

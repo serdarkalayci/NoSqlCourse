@@ -1,0 +1,21 @@
+db.test.drop();
+db.test.insertMany([
+    {
+        "name" : "Deadpool",
+        "score" : 8.0,
+        "director": "Tim Miller",
+        "stars" : ["Ryan Reynolds", "Morena Baccarin", "T.J. Miller"]
+    },
+    {
+        "name" : "Doctor Strange",
+        "score" : 7.5,
+        "director": "Scott Derrickson",
+        "stars" : ["Ryan Reynolds", "Morena Baccarin", "T.J. Miller"]
+    },
+    {
+        "name" : "Deadpool 2",
+        "score" : 7.7,
+        "director": "David Leitch",
+        "stars" : ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin"]
+    }
+]

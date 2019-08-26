@@ -1,0 +1,4 @@
+FROM mongo
+
+COPY initmovies.js /docker-entrypoint-initdb.d
+

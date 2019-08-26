@@ -1,0 +1,17 @@
+
+appsettings.json dosyasına connectionstring bilgisi ekle
+MongoDatabase klasörü yarat ve içine IMongoDatabaseSettings ve MongoDatabaseSettings dosyalarını ekle
+Models altına Movie dosyasını ekle
+Controller altına MoviesController ekle
+using statement'ları ekle
+const ekle, IMongoDatabase settings al ve connection kur
+GetAll metodunu ekle
+Get metodunu ekle
+
+RedisDatabase klasörü yarat ve içine IRedisDatabaseProvider ve RedisDatabaseProvider dosyalarını ekle
+Startup.cs dosyasına servis ekle
+Models altına MovieCacheItem dosyasını ekle
+GetAll metoduna redis'i dolduracak kodu ekle
+Get metoduna yeni hesaplanan score kodunu ekle
+
+CastVode metodu ekle
